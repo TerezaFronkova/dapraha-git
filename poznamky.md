@@ -6,3 +6,6 @@
 * `git log` - reference na větve?
 * Vysvětlit symbolické reference?
 * Vysvětlit reference na předky (^, ~)?
+
+#ted jsem husta a opravdu to posilam na github na net !!!
+
